@@ -1,0 +1,65 @@
+name: Flipbook
+type: module
+description: "Gives an Flipbook version Of the Uploaded Pdf"
+core_version_requirement: ^8.8 || ^9
+# core: '8.x'
+dependencies:
+  - options
+configure: flipbook.chooseform
+# Information added by Drupal.org packaging script on 2018-02-14
+# version: "8.x-1.0-alpha1"
+# project: "flipbook"
+# datestamp: 1518594193
+
+# Information added by Drupal.org packaging script on 2020-06-19
+version: '8.x-1.2'
+project: 'flipbook'
+datestamp: 1592525698
+This is a change for 2019-05-09:30:00
+This is a change for 2020-12-17:00:00
+This is a change for 2020-05-17:30:00
+This is a change for 2017-10-13:30:00
+This is a change for 2023-12-15:00:00
+This is a change for 2023-03-09:30:00
+This is a change for 2020-09-16:30:00
+This is a change for 2021-04-16:00:00
+This is a change for 2016-07-13:30:00
+This is a change for 2024-03-10:30:00
+This is a change for 2016-12-10:30:00
+This is a change for 2021-11-10:30:00
+This is a change for 2018-07-10:00:00
+This is a change for 2022-12-11:30:00
+This is a change for 2019-09-14:30:00
+This is a change for 2023-02-11:00:00
+This is a change for 2018-08-15:30:00
+This is a change for 2022-03-16:00:00
+This is a change for 2022-03-13:00:00
+This is a change for 2022-03-12:30:00
+This is a change for 2015-04-11:00:00
+This is a change for 2019-01-14:30:00
+This is a change for 2020-04-10:00:00
+This is a change for 2014-07-10:00:00
+This is a change for 2018-11-13:00:00
+This is a change for 2020-10-09:30:00
+This is a change for 2020-02-10:30:00
+This is a change for 2020-03-09:30:00
+This is a change for 2016-05-09:00:00
+This is a change for 2018-03-11:00:00
+This is a change for 2022-01-13:00:00
+This is a change for 2016-02-12:00:00
+This is a change for 2015-05-16:30:00
+This is a change for 2017-07-17:30:00
+This is a change for 2024-02-10:30:00
+This is a change for 2016-10-11:00:00
+This is a change for 2023-04-09:00:00
+This is a change for 2021-04-14:30:00
+This is a change for 2014-05-16:00:00
+This is a change for 2024-10-13:00:00
+This is a change for 2014-02-10:00:00
+This is a change for 2024-08-13:00:00
+This is a change for 2024-07-15:00:00
+This is a change for 2020-04-17:30:00
+This is a change for 2022-10-15:00:00
+This is a change for 2022-08-11:00:00
+This is a change for 2016-11-13:00:00
+This is a change for 2015-01-11:30:00
