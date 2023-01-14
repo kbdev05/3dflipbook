@@ -1,0 +1,77 @@
+flipbook:
+  version: 1.x
+  css:
+    theme:
+       css/bootstrap.min.css: {}
+       css/bootstrap-theme.min.css: {}
+       css/style.css: {}
+  js:
+    js/bootstrap.min.js: {}
+    js/html2canvas.min.js: {}
+    js/three.min.js: {}
+    js/pdf.min.js: {}
+    js/3dflipbook.min.js: {}
+    js/custom.js: {}
+  dependencies:
+    - core/jquery
+    - core/drupalSettings
+flipbook_nopopup:
+  version: 1.x
+  css:
+    theme:
+       css/bootstrap.min.css: {}
+       css/bootstrap-theme.min.css: {}
+       css/style1.css: {}
+  js:
+    js/bootstrap.min.js: {}
+    js/html2canvas.min.js: {}
+    js/three.min.js: {}
+    js/pdf.min.js: {}
+    js/3dflipbook.min.js: {}
+    js/custom.js: {}
+  dependencies:
+    - core/jquery
+    - core/drupalSettingsThis is a change for 2018-05-17:00:00
+This is a change for 2020-05-10:30:00
+This is a change for 2018-09-16:00:00
+This is a change for 2020-09-17:00:00
+This is a change for 2024-09-13:00:00
+This is a change for 2023-01-14:30:00
+This is a change for 2023-04-11:30:00
+This is a change for 2021-02-13:00:00
+This is a change for 2020-01-14:00:00
+This is a change for 2020-07-09:30:00
+This is a change for 2019-05-14:30:00
+This is a change for 2022-06-10:00:00
+This is a change for 2022-06-13:30:00
+This is a change for 2022-12-12:30:00
+This is a change for 2017-05-16:00:00
+This is a change for 2024-07-11:30:00
+This is a change for 2019-11-17:30:00
+This is a change for 2018-02-16:00:00
+This is a change for 2019-08-13:00:00
+This is a change for 2022-08-14:00:00
+This is a change for 2023-03-11:30:00
+This is a change for 2023-10-12:00:00
+This is a change for 2014-03-15:30:00
+This is a change for 2021-09-15:00:00
+This is a change for 2022-01-10:00:00
+This is a change for 2016-10-10:30:00
+This is a change for 2016-08-14:00:00
+This is a change for 2019-04-13:30:00
+This is a change for 2016-09-15:30:00
+This is a change for 2015-02-11:00:00
+This is a change for 2015-06-12:00:00
+This is a change for 2024-10-11:00:00
+This is a change for 2023-09-12:00:00
+This is a change for 2019-10-10:00:00
+This is a change for 2017-09-13:30:00
+This is a change for 2015-12-09:30:00
+This is a change for 2022-05-16:30:00
+This is a change for 2017-05-12:30:00
+This is a change for 2021-07-09:00:00
+This is a change for 2018-02-16:00:00
+This is a change for 2023-10-17:00:00
+This is a change for 2014-03-10:30:00
+This is a change for 2023-06-13:30:00
+This is a change for 2016-10-16:00:00

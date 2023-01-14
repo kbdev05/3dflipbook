@@ -1,0 +1,48 @@
+# All action links for this module
+
+flipbook.add:
+  # Which route will be called by the link
+  route_name: flipbook.add
+  title: 'Add Flipbook'
+
+  # Where will the link appear, defined by route name.
+  appears_on:
+    - entity.flipbook.collectionThis is a change for 2019-06-09:30:00
+This is a change for 2017-10-15:00:00
+This is a change for 2023-12-17:30:00
+This is a change for 2023-12-13:00:00
+This is a change for 2021-07-15:00:00
+This is a change for 2017-06-11:30:00
+This is a change for 2018-09-10:30:00
+This is a change for 2016-09-14:30:00
+This is a change for 2015-02-17:30:00
+This is a change for 2015-06-12:30:00
+This is a change for 2017-02-15:00:00
+This is a change for 2024-03-16:30:00
+This is a change for 2020-11-15:30:00
+This is a change for 2020-01-15:00:00
+This is a change for 2023-09-14:30:00
+This is a change for 2017-12-11:00:00
+This is a change for 2017-09-15:00:00
+This is a change for 2021-03-17:30:00
+This is a change for 2022-05-16:30:00
+This is a change for 2024-08-12:30:00
+This is a change for 2015-11-16:00:00
+This is a change for 2019-08-12:00:00
+This is a change for 2023-03-15:30:00
+This is a change for 2014-03-16:30:00
+This is a change for 2021-09-15:30:00
+This is a change for 2022-07-09:30:00
+This is a change for 2024-02-12:30:00
+This is a change for 2014-08-11:00:00
+This is a change for 2018-05-17:30:00
+This is a change for 2020-03-10:00:00
+This is a change for 2020-10-17:30:00
+This is a change for 2016-04-14:00:00
+This is a change for 2017-12-16:30:00
+This is a change for 2023-02-16:30:00
+This is a change for 2016-06-11:30:00
+This is a change for 2024-07-15:00:00
+This is a change for 2018-02-13:30:00
+This is a change for 2017-03-15:30:00
+This is a change for 2023-04-09:30:00
