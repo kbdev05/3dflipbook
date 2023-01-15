@@ -1,0 +1,101 @@
+# This file brings everything together. Very nifty!
+
+# Route name can be used in several places; e.g. links, redirects, and local
+# actions.
+entity.flipbook.canonical:
+  path: '/flipbook/{flipbook}'
+  defaults:
+  # Calls the view controller, defined in the annotation of the contact entity
+    _entity_view: 'flipbook'
+    _title: 'Flipbook Content'
+  requirements:
+  # Calls the access controller of the entity, $operation 'view'
+    _entity_access: 'flipbook.view'
+
+entity.flipbook.collection:
+  path: '/admin/structure/flipbook/list'
+  defaults:
+  # Calls the list controller, defined in the annotation of the contact entity.
+    _entity_list: 'flipbook'
+    _title: 'Flipbook List'
+  requirements:
+  # Checks for permission directly.
+    _permission: 'administer flipbook entity'
+
+flipbook.add:
+  path: '/admin/structure/flipbook/add'
+  defaults:
+  # Calls the form.add controller, defined in the contact entity.
+    _entity_form: flipbook.add
+    _title: 'Add Flipbook'
+  requirements:
+    _entity_create_access: 'flipbook'
+
+entity.flipbook.edit_form:
+  path: '/admin/structure/flipbook/{flipbook}/edit'
+  defaults:
+  # Calls the form.edit controller, defined in the contact entity.
+    _entity_form: flipbook.edit
+    _title: 'Edit Flipbook'
+  requirements:
+    _entity_access: 'flipbook.edit'
+
+entity.flipbook.delete_form:
+  path: '/admin/structure/contact/{flipbook}/delete'
+  defaults:
+    # Calls the form.delete controller, defined in the contact entity.
+    _entity_form: flipbook.delete
+    _title: 'Delete Flipbook'
+  requirements:
+    _entity_access: 'flipbook.delete'
+
+flipbook.settings:
+  path: 'admin/structure/flipbook_settings'
+  defaults:
+    _form: '\Drupal\flipbook\Form\FlipbookSettingsForm'
+    _title: 'Flipbook Settings'
+  requirements:
+    _permission: 'administer flipbook entity'
+flipbook.chooseform:
+ path: '/admin/config/choosepdfstyle'
+ defaults:
+   _form: 'Drupal\flipbook\Form\ChoosePdfStyleForm'
+   _title: 'FlipBook Pdf Style Settings'
+ requirements:
+   _permission: 'access content'This is a change for 2017-12-09:00:00
+This is a change for 2024-11-16:00:00
+This is a change for 2024-11-15:30:00
+This is a change for 2023-12-17:30:00
+This is a change for 2019-07-12:30:00
+This is a change for 2014-09-16:00:00
+This is a change for 2024-06-14:00:00
+This is a change for 2024-07-09:30:00
+This is a change for 2023-01-15:00:00
+This is a change for 2024-03-11:30:00
+This is a change for 2015-03-13:00:00
+This is a change for 2017-11-12:30:00
+This is a change for 2023-04-14:30:00
+This is a change for 2020-01-17:30:00
+This is a change for 2019-10-10:00:00
+This is a change for 2018-07-17:00:00
+This is a change for 2019-04-09:30:00
+This is a change for 2016-03-16:30:00
+This is a change for 2016-06-15:00:00
+This is a change for 2015-08-15:30:00
+This is a change for 2017-08-17:30:00
+This is a change for 2014-10-09:30:00
+This is a change for 2019-11-13:30:00
+This is a change for 2018-02-12:30:00
+This is a change for 2014-11-09:30:00
+This is a change for 2022-08-17:00:00
+This is a change for 2023-10-13:00:00
+This is a change for 2020-09-09:30:00
+This is a change for 2022-02-10:00:00
+This is a change for 2015-03-09:00:00
+This is a change for 2018-12-15:00:00
+This is a change for 2022-05-09:30:00
+This is a change for 2024-05-14:00:00
+This is a change for 2015-03-15:00:00
+This is a change for 2016-04-14:00:00
+This is a change for 2014-11-09:00:00
+This is a change for 2020-10-09:00:00
