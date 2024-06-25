@@ -38,4 +38,3 @@ CONFIGURATION
     1. Navigate to Administration > Extend and enable the Flipbook module.
     2. Navigate to Administration > Structure > Flipbook Listing > "Add flipbook".
     3. Enter name, flipbook pdf and cover image of flipbook.
-    
